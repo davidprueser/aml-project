@@ -1,0 +1,23 @@
+- helps with exama preparation
+- four weeks in tut
+- 9th of December Deadline
+- Presentation on 16th
+
+- Measure What Brainarea activates (eeg)
+-- Brainpattern activation
+
+
+-Start:
+1. Build a skeleton
+2. Load the Data
+3. Investigate the Data
+4. Decide on a classification task
+5. And on (roughly) how you will handle this
+
+Tips:
+- Look at the data early
+- Look online for good EEG and EEGMMIDB ressources
+- Test, but with purpose
+- It is not about best Accuracy, but intentionality
+- Vibe Coding okay, but understand what it does
+
